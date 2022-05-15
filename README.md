@@ -31,6 +31,7 @@ Full Stack Web developer, AI&ML enthusiast
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kumarpriyanshu2k2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/priyanshu-kumar-2b7948222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/priyanshu2k02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -43,8 +44,8 @@ Full Stack Web developer, AI&ML enthusiast
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/kumarpriyanshu2k2/OpenCV_snake" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarpriyanshu2k2&repo=OpenCV_snake&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/kumarpriyanshu2k2/Hand_gesture_recoginition_OpenCV" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarpriyanshu2k2&repo=Hand_gesture_recoginition_OpenCV&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/kumarpriyanshu2k2/OpenCV_snake" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarpriyanshu2k2&repo=OpenCV_snake&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/kumarpriyanshu2k2/Hand_gesture_recoginition_OpenCV" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarpriyanshu2k2&repo=Hand_gesture_recoginition_OpenCV&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/kumarpriyanshu2k2/ChatBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarpriyanshu2k2&repo=ChatBot&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/kumarpriyanshu2k2/CV_Volume_Controller" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarpriyanshu2k2&repo=CV_Volume_Controller&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
