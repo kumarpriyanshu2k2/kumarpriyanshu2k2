@@ -1,7 +1,7 @@
 Hi 👋 My name is Priyanshu Kumar
 ================================
 
-Full Stack Web developer, AI&ML enthusiast
+Python developer, AI&ML enthusiast
 ------------------------------------------
 
 * 🌍  I'm based in Goa,India
