@@ -9,6 +9,7 @@ Python developer, AI&ML enthusiast
 * ✉️  You can contact me at [kumar.priyanshu2k02@gmail.com](mailto:kumar.priyanshu2k02@gmail.com)
 * 🧠  I'm learning Tensorflow
 * 🤝  I'm open to collaborating on MERN stack and Python projects
+* 🧑🏻‍🏫 M.Sc Economics and B.E Computer Sceince and Engineering BITS Pilani Goa 2021-26
 
 ### Skills
 
