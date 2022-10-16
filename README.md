@@ -4,6 +4,8 @@ Hi 👋 My name is Priyanshu Kumar
 Full stack Web developer, Flutter Developer, AI&ML enthusiast
 ------------------------------------------
 
+![](https://komarev.com/ghpvc/?username=kumarpriyanshu2k2&color=green)
+
 * 🌍  I'm based in Goa,India
 * 🖥️  See my portfolio at [MyPortfolio](http://kumarpriyanshu.me)
 * ✉️  You can contact me at [kumar.priyanshu2k02@gmail.com](mailto:kumar.priyanshu2k02@gmail.com)
@@ -43,7 +45,7 @@ Full stack Web developer, Flutter Developer, AI&ML enthusiast
 
 <a href="https://github.com/kumarpriyanshu2k2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarpriyanshu2k2&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![](https://komarev.com/ghpvc/?username=kumarpriyanshu2k2&color=green)
+
 
 <b>Top Repositories</b>
 
