@@ -45,7 +45,7 @@ Full stack Web developer, Flutter Developer, AI&ML enthusiast
 
 <a href="https://github.com/kumarpriyanshu2k2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarpriyanshu2k2&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
+[![@preyawnshoe's Holopin board](https://holopin.me/preyawnshoe)](https://holopin.io/@preyawnshoe)
 
 <b>Top Repositories</b>
 
