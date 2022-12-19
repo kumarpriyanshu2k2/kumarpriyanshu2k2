@@ -48,8 +48,9 @@ Full stack Web developer, Flutter Developer, AI&ML enthusiast
 [![@preyawnshoe's Holopin board](https://holopin.me/preyawnshoe)](https://holopin.io/@preyawnshoe)
 
 <b>Top Repositories</b>
-
+<!--
 <div width="100%" align="center"><a href="https://github.com/kumarpriyanshu2k2/OpenCV_snake" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarpriyanshu2k2&repo=OpenCV_snake&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/kumarpriyanshu2k2/Hand_gesture_recoginition_OpenCV" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarpriyanshu2k2&repo=Hand_gesture_recoginition_OpenCV&title_color=facc15&text_color=84cc16&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br />
+-->
 
 <br /><br /><br />
 
