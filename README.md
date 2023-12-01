@@ -1,13 +1,15 @@
 Hi 👋 My name is Priyanshu Kumar
 ================================
 
-Full stack Web developer, Flutter Developer, AI&ML enthusiast
+Web3, Metaverse, Crypto, AR/VR, Flutter
+------------------------------------------
+🛑 3X+1 🖲️ ➗2
 ------------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=kumarpriyanshu2k2&color=green)
 
 * 🌍  I'm based in Goa,India
-* 🖥️  See my portfolio at [MyPortfolio](http://kumarpriyanshu.me)
+* 🖥️  See my portfolio at [MyPortfolio](http://preyawnshoe.rocks)
 * ✉️  You can contact me at [kumar.priyanshu2k02@gmail.com](mailto:kumar.priyanshu2k02@gmail.com)
 * 🧠  I'm learning Tensorflow
 * 🤝  I'm open to collaborating on MERN stack and Python projects
